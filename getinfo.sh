@@ -5,7 +5,7 @@
 	#	Script Author: Vinicius Torino                               #
 	#	Author's email: vinicius.torino@protonmail.com               #
 	#	Date of Creation: Wed Jul  8 11:51:00 -03 2020               #
-	#	Short Description: Get info from /etc/ssswitch.conf file     #
+	#	Short Description: Get info from /etc/nsswitch.conf file     #
 	#	Usage: ./getinfo <database> [string]                         #
 	######################################################################
 	    
